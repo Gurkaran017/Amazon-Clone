@@ -19,7 +19,6 @@ import OfferSlider from './OfferSlider'
 import ThreeImgs from "../assets/Images/ThreeImgs.jpg"
 import Base from './Base'
 
-//changed
 
 
 const Bottom = () => {
